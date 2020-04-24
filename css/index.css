@@ -1,0 +1,22 @@
+html, body {padding: 0; margin: 0;}
+p {
+	margin: 0;
+ padding: 0;
+ box-sizing: border-box;}
+img{vertical-align: bottom;}
+body {height: 10000px;}
+
+.clearfix {clear: both;}
+.slogan {color: #999; text-align: center; font-style: italic; padding: 24px 0;}
+
+.title {text-align: center;  font-family: 'Nunito', sans-serif; font-weight: 400; letter-spacing: 8px;}
+.desc	{color: #222; text-align: justify;}
+
+
+
+.header {background-color: black; color: white;}
+.nav-wrap > div {padding: 14px 18px; float: left;}
+.nav-wrap {float: left;}
+.nav-wrap > div:hover {background-color: grey; color: black; cursor: pointer;}
+.main-img {width: 100%;}
+.main-wrap {text-align: center;}
